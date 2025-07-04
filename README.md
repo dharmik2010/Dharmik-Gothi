@@ -56,7 +56,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
-
+![vercel]([https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white])
 </p>
-![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmikpatel&show_icons=true&theme=radical)
+![Dharmik's GitHub Stats]()
 
