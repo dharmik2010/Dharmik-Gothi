@@ -1,7 +1,7 @@
 ﻿# Dharmik-Gothi
  <h1 align="center">Hi 👋, I'm Dharmik Gothi</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-- 📫 How to reach me **dharmik2234@gmail.com**
+- 📫 How to reach me dharmik2234@gmail.com
 <h3 align="left">Connect with me:</h3>
 ## 🛠 Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
