@@ -1,5 +1,5 @@
 ﻿# Dharmik-Gothi
- <h1> align="center">Hi 👋, I'm Dharmik Gothi</h1>
+ <h1 align="center">Hi 👋, I'm Dharmik Gothi</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 - 📫 How to reach me **dharmik2234@gmail.com**
 <h3 align="left">Connect with me:</h3>
